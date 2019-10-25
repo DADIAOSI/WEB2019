@@ -1,0 +1,7 @@
+1.打开命令行：cmd +shift + p
+2.打开默认设置Json:cmd +shift + p ==>>  Open Raw Default Settings
+3.Ctrl+P ：将允许您通过键入其名称导航到任何文件或符号
+4.Ctrl+Shift+Tab ： 将循环浏览最后一组打开的文件
+5.Ctrl+Shift+P ： 将直接带您到编辑器命令
+6.Ctrl+Shift+O ： 将允许您导航到文件中的特定符号
+7.Ctrl+G ： 将允许您导航到文件中的特定行
